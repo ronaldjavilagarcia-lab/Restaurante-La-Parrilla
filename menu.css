@@ -80,7 +80,7 @@ body{
     justify-content: center;
     position: relative;
     font-size: 18px;
-    font-size: clamp(20px, 4vw, 32px);
+    font-size: clamp(14px, 2.5vw, 18px);
     width: 100%;
 }
 
