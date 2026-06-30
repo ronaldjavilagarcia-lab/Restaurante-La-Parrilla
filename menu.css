@@ -30,6 +30,7 @@ body{
     display: flex;
     position: relative;
     margin-top: 70px;
+    font-size: clamp(20px, 4vw, 32px);
 }
 
 .ternera{
@@ -37,6 +38,7 @@ body{
     display: flex;
     justify-content: center;
     position: relative;
+    font-size: clamp(20px, 4vw, 32px);
   
 }
 
@@ -45,6 +47,7 @@ body{
      display: flex;
     justify-content: center;
     position: relative;
+    font-size: clamp(20px, 4vw, 32px);
  
 }    
 
@@ -53,6 +56,7 @@ body{
     display: flex;
     justify-content: center;
     position: relative;
+    font-size: clamp(20px, 4vw, 32px);
   
 }
 
@@ -61,6 +65,7 @@ body{
     display: flex;
     justify-content: center;
     position: relative;
+    font-size: clamp(20px, 4vw, 32px);
  
 }
 
@@ -70,6 +75,7 @@ body{
     justify-content: center;
     position: relative;
     font-size: 18px;
+    font-size: clamp(20px, 4vw, 32px);
 }
 
 .img{
